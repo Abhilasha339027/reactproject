@@ -1,0 +1,35 @@
+{
+  "login": [
+    {
+      "name": "anil",
+      "password": "abc@123"
+    },
+    {
+      "name": "abhilasha",
+      "password": "abhilasha123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Pizza Hut",
+      "email": "pizzahut@gmail.com",
+      "address": "Delhi",
+      "rating": "4.3",
+      "id": 1
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "address": "Haridwar",
+      "rating": "4.7",
+      "id": 2
+    },
+    {
+      "name": "Hotspot",
+      "email": "hotspot@gmail.com",
+      "address": "Hamirpur",
+      "rating": "4.2",
+      "id": 3
+    }
+  ]
+}
